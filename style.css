@@ -1,0 +1,44 @@
+div {margin: o; padding: 0;}
+div div { position: relative; }
+
+.buttonColour {
+	background-color: #6899e8;
+} 
+
+.logo {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  clear: both;
+  padding-top: 200px;
+  padding-bottom: 20px;
+}
+
+.search {
+	text-align: center;
+	padding-bottom: : 15px;
+}
+
+.buttons {
+	text-align: center;
+	padding-top: 10px;
+	
+
+}
+ul {
+
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+
+}
+
+li {
+	display: inline;
+	border-right: 1px solid #bbb;
+}
+
+li:last-child {
+	border-right: none;
+}
